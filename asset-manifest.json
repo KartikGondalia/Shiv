@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Shiv/static/css/main.6dd251d7.css",
+    "main.js": "/Shiv/static/js/main.a301b6a4.js",
+    "index.html": "/Shiv/index.html",
+    "main.6dd251d7.css.map": "/Shiv/static/css/main.6dd251d7.css.map",
+    "main.a301b6a4.js.map": "/Shiv/static/js/main.a301b6a4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6dd251d7.css",
+    "static/js/main.a301b6a4.js"
+  ]
+}
